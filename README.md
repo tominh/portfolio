@@ -1,2 +1,2 @@
-# <a href="https://public.tableau.com/views/WisataJawaBarat2014-2017/WisataJawaBarat2014-2017?:language=en-GB&:display_count=n&:origin=viz_share_link">Wisata Jawa Barat</a>
-Data Analyst portfolio
+# <a href="https://public.tableau.com/views/WisataJawaBarat2014-2017/WisataJawaBarat2014-2017?:language=en-GB&:display_count=n&:origin=viz_share_link">Wisata Jawa Barat 2014-2017</a>
+Disini saya membuat dashboard dengan menggunakan Tableau Public untuk memvisualisasikan Wisata Jawa Barat dari tahun 2014 sampai 2017. Dalam project ini saya berhasil mengidentifikasi jumlah wisatawan dari tahun ke tahun, jenis wisatawan yang datang, dan kabupaten/kota dengan jumlah pengunjung wisata tertinggi.
