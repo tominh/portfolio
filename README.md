@@ -1,6 +1,10 @@
+# <a href="https://public.tableau.com/views/TrenProduktivitasTanamandiJawaBarat2013-2020/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link">Tren Produktivitas Tanaman di Jawa Barat (2013-2020)</a>
+
+Pada project ini saya mencoba membuat dashboard dengan menggunakan Tableau untuk memvisualisasi Tren Produktivitas Tanaman di Jawa Barat dari tahun 2013 s.d. tahun 2020. Dalam project tersebut saya berhasil menemukan jumlah produkivitas tanaman tertinggi pada tahun 2014 yaitu 17.229 kg/Ha sedangkan yang terendah pada tahun 2019 dengan jumlah 15.134 kg/Ha. Kemudian juga kabupaten/kota dengan jumlah produktivitas tanaman tertinggi berhasil diidentifikasi yaitu Kabupaten Tasikmalaya dengan jumlah produktivitas 8.511 kg/Ha dari tahun 2013 s.d. 2020. Terakhir saya juga membuat estimasi untuk tren di tahun 2021 dengan menggunakan Forecast.
+
 # <a href="https://public.tableau.com/views/WisataJawaBarat2014-2017/WisataJawaBarat2014-2017?:language=en-GB&:display_count=n&:origin=viz_share_link">Wisata Jawa Barat 2014-2017</a>
 
-Disini saya membuat dashboard dengan menggunakan Tableau Public untuk memvisualisasikan Wisata Jawa Barat dari tahun 2014 sampai 2017. Dalam project ini saya berhasil mengidentifikasi jumlah wisatawan dari tahun ke tahun, jenis wisatawan yang datang, dan kabupaten/kota dengan jumlah pengunjung wisata tertinggi.
+Di sini saya membuat dashboard dengan menggunakan Tableau Public untuk memvisualisasikan Wisata Jawa Barat dari tahun 2014 sampai 2017. Dalam project ini saya berhasil mengidentifikasi jumlah wisatawan dari tahun ke tahun, jenis wisatawan yang datang, dan kabupaten/kota dengan jumlah pengunjung wisata tertinggi.
 
 # <a href="https://github.com/tominh/portfolio/blob/main/image_classification_3_class_machine_learning.ipynb">Model Klasifikasi Gambar 3 Kelas</a>
 
